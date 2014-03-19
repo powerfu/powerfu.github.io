@@ -1,7 +1,7 @@
 ---
 layout: home
-description: 廖祜秋的博客 / liaohuqiu's blog / srain's blog
-keywords: 廖祜秋,liaohuqiu,srain,无朽
+description:pofeng2000的博客
+keywords: pofeng haowenke
 ---
 
 <ul class="article-list">
