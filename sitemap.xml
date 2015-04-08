@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://www.liaohuqiu.net/index.html</loc>
+        <loc>http://www.fuguozheng.com/index.html</loc>
         <lastmod>2015-04-07</lastmod>
         
         <changefreq>hourly</changefreq>
@@ -10,20 +10,12 @@
     </url>
     
     <url>
-        <loc>http://www.liaohuqiu.net/sitemap.xml</loc>
+        <loc>http://www.fuguozheng.com/sitemap.xml</loc>
         <lastmod>2015-04-07</lastmod>
         
         <changefreq>daily</changefreq>
         
     </url>
     
-    
-    <url>
-        <loc>http://www.liaohuqiu.net/posts/first-post</loc>
-        <lastmod>2015-04-07</lastmod>
-        
-        <changefreq>daily</changefreq>
-        
-    </url>
     
 </urlset> 
