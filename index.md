@@ -1,7 +1,7 @@
 ---
 layout: home
-description: pofeng2000的博客
-keywords: "pofeng haowenke"
+description: powerfu的博客
+keywords: "powerfu"
 ---
 
 <ul class="article-list">

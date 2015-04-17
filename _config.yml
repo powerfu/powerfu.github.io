@@ -4,7 +4,8 @@ auto:           true
 markdown:       redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-pygments:       true
+#pygments:       true
+pygments: true
 paginate:       10
 paginate_path:  "index/page:num"
 permalink:      /posts/:title
@@ -13,9 +14,9 @@ title:          "welcome"
 
 exclude:        ['README.md']
 
-host_name:      'www.liaohuqiu.net'
+host_name:      'www.fuguozhneg.com'
 
-author:         haowenke
+author:         powerfu
 
 # -----------------
 
